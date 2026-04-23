@@ -1,3 +1,33 @@
+
+
+Nguồn mờ giúp bạn xây dựng một trợ lý ảo 2D AI Avatar dễ dàng với khả năng giao tiếp bằng giọng nói, hình ảnh và nhiều biểu cảm
+
+Handcrafted Persona Engine là framework mã nguồn mở giúp bạn build AI character realtime (kiểu VTuber/assistant ảo), không chỉ chat mà còn nói chuyện + biểu cảm như người thật.
+
+⚡ Tính năng nổi bật
+
+* 🎭 Live2D avatar (có animation, biểu cảm)
+* 🧠 LLM + personality (định nghĩa tính cách riêng)
+* 🎤 Voice interaction: ASR + TTS + voice cloning
+* 🔁 Realtime pipeline: nghe → hiểu → trả lời → animate
+* 🧩 Tùy biến sâu (style nói chuyện, cảm xúc, behavior)
+* 💻 Chạy local, dễ tích hợp vào agent system
+
+💡 Use case nhanh
+
+* VTuber / AI streamer
+* Assistant cá nhân có “tính cách”
+* NPC game thông minh
+* Kiosk / booth tương tác
+* Character chatbot (anime, fan-service)
+
+🎯 Kết luận
+
+Không còn là chatbot text
+👉 Đây là bước tiến sang AI có “nhân cách + hình dạng + giọng nói”
+
+#AIAgent #CharacterAI #VTuberAI #OpenSource
+
 <div align="center">
   <img src="assets/header.png" alt="Persona Engine" width="680">
 
